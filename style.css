@@ -1,0 +1,87 @@
+.main-div {
+  display: flex;
+}
+.top-div {
+  width: 300px;
+  height: 100px;
+  margin-left: 90px;
+  margin-top: 90px;
+}
+h1 {
+  font-size: 41px;
+}
+.ratings {
+  margin-top: 30px;
+  font-weight: 700;
+}
+
+.rating-1 {
+  display: flex;
+  gap: 25px;
+  margin-top: 150px;
+  margin-left: 120px;
+  background-color: rgb(190, 188, 185);
+
+  padding: 15px 30px 15px 30px;
+  border-radius: 3px;
+}
+.rating-2 {
+  display: flex;
+  gap: 25px;
+  margin-top: 30px;
+  margin-left: 140px;
+  padding: 15px 30px 15px 30px;
+  border-radius: 3px;
+  background-color: rgb(231, 242, 252);
+}
+.rating-3 {
+  display: flex;
+  gap: 25px;
+  margin-top: 30px;
+  margin-left: 180px;
+  padding: 15px 30px 15px 30px;
+  border-radius: 3px;
+  background-color: rgb(244, 248, 247);
+}
+.card-1 {
+  width: 200px;
+  border: 1px black solid;
+}
+.testimonials {
+  margin-left: 90px;
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-top: 90px;
+}
+.card {
+  width: 350px;
+  height: 220px;
+  background: #111111;
+  border-radius: 6px;
+  padding: 10px 17px;
+  color: white;
+  transition: all ease;
+}
+.user-img {
+  width: 50px;
+  height: 50px;
+}
+.card-2 {
+  margin-top: 20px;
+  width: 350px;
+  height: 210px;
+  background: #cec8ce;
+  border-radius: 6px;
+  padding: 10px 17px;
+  color: rgb(7, 7, 7);
+}
+.card-3 {
+  margin-top: 40px;
+  width: 350px;
+  height: 210px;
+  background: #bcfcb6;
+  border-radius: 6px;
+  padding: 10px 17px;
+  color: rgb(0, 0, 0);
+}
